@@ -80,13 +80,15 @@ A mobile frontend built for performance.
 
 **To compile the Firmware:**
 1. Open the `firmware/` directory in VS Code with the PlatformIO extension installed.
-2. Build the environment to pull the required C++ dependencies.
+2. Create your firebase project and manually add your database URL and API_KEY-I removed mine for security purposes.
+3. Build the environment to pull the required C++ dependencies.
 
 **To run the Mobile App:**
 1. Navigate to the `software/` directory.
-2. Run `flutter pub get`.
-3. Provide your own `google-services.json` (Android) from your Firebase console.
-4. Run `flutter run`.
+2. Use your own firebase URL,the RTDB structure is already defined in the esp32 code,you only need to create the Firebase project and create the nodes as they appear in the ESP32 code.
+3. Run `flutter pub get`.
+4. Provide your own `google-services.json` (Android) from your Firebase console.
+5. Run `flutter run`.
 
 ---
 *Designed and engineered by Jackson Asiligwa*
