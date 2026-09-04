@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "376454246757",
+    "firebase_url": "https://industry-temp-monitor-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "industry-temp-monitor",
+    "storage_bucket": "industry-temp-monitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376454246757:android:4cf293426c66f7ebcab18c",
+        "android_client_info": {
+          "package_name": "com.example.industrial_temperature_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxphE7EdmYPRTcqxUy2k8WoBjrop5fBMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

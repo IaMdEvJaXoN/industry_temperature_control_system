@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "buck_conv") (type "KiCad") (uri "${KIPRJMOD}/buck_conv.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "/home/iamjaxon/Downloads/190270686-659-393570002/Library.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,17 @@
+# KiCad autosaves and backups
+*-backups/
+*.bck
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.tmp
+
+# KiCad lock files (created when a project is actively open)
+*.lck
+
+# Component and footprint cache files
+fp-info-cache
+
+# Netlist files (auto-generated from schematic)
+*.net
