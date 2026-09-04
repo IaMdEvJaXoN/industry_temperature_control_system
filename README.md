@@ -85,7 +85,7 @@ A mobile frontend built for performance.
 
 **To run the Mobile App:**
 1. Navigate to the `software/` directory.
-2. Use your own firebase URL,the RTDB structure is already defined in the esp32 code,you only need to create the Firebase project and create the nodes as they appear in the ESP32 code.
+2. Use your own firebase URL,the RTDB structure is already defined in the README.md of the software folder,you only need to create the Firebase project and create the nodes as they appear in the README.md in the software folder.
 3. Run `flutter pub get`.
 4. Provide your own `google-services.json` (Android) from your Firebase console.
 5. Run `flutter run`.
