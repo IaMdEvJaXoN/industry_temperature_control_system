@@ -35,8 +35,8 @@
 #define WIFI_SSID "Wokwi-GUEST" // Network name
 #define WIFI_PASSWORD ""        // Network password
 
-#define API_KEY "AIzaSyCn0KIKOy228TIzYXmfmJkfXicPGJY5SuY"                                   // secret cloud password to the FIrebase RTDB
-#define DATABASE_URL "industry-temp-monitor-default-rtdb.europe-west1.firebasedatabase.app" // The web address of your database in Firebase
+#define API_KEY ""                                   // secret cloud password to the FIrebase RTDB
+#define DATABASE_URL "" // The web address of your database in Firebase
 
 // FIREBASE OBJECTS
 // These background objects manage the complex internet connection.
