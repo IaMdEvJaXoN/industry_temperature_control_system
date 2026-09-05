@@ -7,7 +7,8 @@ class RtdbPaths {
   static const String telemetryRoot = '/telemetry';
   static const String configRoot = '/config';
   static const String databaseUrl =
-      'https://industry-temp-monitor-default-rtdb.europe-west1.firebasedatabase.app';
+      'Put your database URL here';
+  //TODO:Replace the string above with your database URL.The nodes are defined in the ESP32 code
 }
 
 class HiveBoxes {
